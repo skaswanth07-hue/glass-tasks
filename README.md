@@ -21,7 +21,7 @@ A clean, simple to-do list app for keeping track of what you need to get done.
 1. Clone the repository
 ```bash
    git clone https://github.com/your-username/glas-tasks.git
-   cd glas-tasks
+   cd To do.py
 ```
 3. Run the app
    Run in python
@@ -43,4 +43,4 @@ A clean, simple to-do list app for keeping track of what you need to get done.
 - [ ] Dark mode
 
 ## Project Structure
-  glasstask.py
+  To do.py
